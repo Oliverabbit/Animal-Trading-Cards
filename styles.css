@@ -1,0 +1,45 @@
+title{
+  border: 5px solid;
+}
+h2{
+  border:3px rgb(246, 246, 238) ;
+  font-style:oblique;
+  color: #004d00;
+  padding-left: 10px;
+}
+img{
+  width:300px;
+  border: 0px;
+  border-color: #004d00;
+}
+p{
+    padding: 10px;
+  text-align: justify;
+  box-sizing: content-box;
+}
+ul{
+  list-style: none;
+  padding: 10px;
+  border: 15px;
+}
+.bold{
+  font-weight: bold;
+  float:left;
+}
+.intrsting{
+  font-style: italic;
+  border: 0px ;
+}
+.lightgrey_box1{
+  border: 4px solid;
+  border-color: #004d00;
+  width: 300px;
+  float: left;
+  border-style: outset;
+  box-shadow: 5px 5px 5px #bfbfbf;
+  background-color: rgb(246, 246, 238);
+}
+.lightgrey_box2{
+  border: 0px ;
+  width: 300px;
+}
